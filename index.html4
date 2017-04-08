@@ -1,0 +1,196 @@
+<html>
+<head>
+   <meta charset="UTF-8">
+   <link href=http://68.media.tumblr.com/a5f08eed2e4092ab750da938d71c0917/tumblr_mmacm8n6U61sp4w6go1_1280.png">
+    <title>Shay Shayane</title>
+<style>
+     div.container {
+        width: 100%;
+     }		
+	   body { 
+	      border:3px solid #6A5ACD;
+	 }
+	     header, footer { 
+		   padding:1em;
+		   color:Lightblue;
+		   background:#ADD8E6;
+		   clear:left;
+		   text-align: center;
+		   text-shadow:-2px 2px 3px;
+	  }
+	      nav { 
+		    float:left;
+			max-width:16-px;
+			margin:1;
+			padding:1em;
+	  }
+	      nav ul { 
+		    list-style-type:none;
+			padding:0;
+			color:;
+			text-shadow:0p 1px px #000000;
+			font-size:19px;
+	 }
+	      nav ul a { 
+		     text-decoration: none;
+	 }
+	       article {
+		   margin-left:140px;
+		   border-left: 1px solid black;
+		   padding:1em 
+		   overflow: hidden;
+	  }
+	       a:link, a:visited { 
+		     text-decoration:none;
+			 color: black;
+	  }
+	       a:houver {
+		     text-decoration: underline;
+			 color:#000080;
+      } 
+	       a:active {
+		      text-decoration:none;
+	  }
+	       h2 { 
+		     font-family:"darkblue;
+			 color:#00008B;
+			 font-size:30px;
+      }
+	       table { 
+		    border-collapse: collapse;
+			width:60%;
+	  }
+	       table, td,th {
+		     border: 2px solid black;
+			 color:#4682B4
+			 padding:13px;
+	  }
+	       th {
+		    height: 250px;
+	  }
+	       tr:nth-child(even){background-color: #000000}
+		   img {
+		     float: left;
+	  }
+	      p { 
+		    color:COCOCO;
+			font-family:"helvetica";
+			 
+		  
+             
+			 
+			 
+			     
+			 </style>
+			 </head>
+			 <body background="https://s-media-cache-ak0.pinimg.com/736x/14/cd/cc/14cdcc082ec201aa917d311071ae7ccc.jpg">
+			 <div class="container">
+			 <hearder>
+			   <h1> Meu Mundo, Seja Bem-Vindo</h1>
+			 </hearder>
+             <br>
+             <br>
+             <ul>
+             <li>
+             <a href="https://shayaneteixeira.github.io/">Sobre Mim</a>
+             </li> 
+             <br>
+             <li>
+              <a href="https://shayaneteixeira.github.io/">Habilidades</a>
+             </li>
+             <br>
+             <li>
+             <a href="https://shayaneteixeira.github.io/">Portifólio</a>
+              </li>
+             <br>
+             <li>
+             <a href="https://shayaneteixeira.github.io/">Contatos</a>
+               </li>
+              <ul>
+             </nav>
+             <h2 style"text-decoration: underline">Sobre Mim</h2>
+             <img style="https://s-media-cache-ak0.pinimg.com/originals/24/1a/9d/241a9d98d2d7e79d567b598c37dc25e2.jpg">
+             <br>
+             <b>Nome</b>
+             </td>
+             <td>Shayane Teixeira Da Cruz</td>
+             </tr>
+			 <td>
+			 <b>Cidade<b>
+			 </td>
+			 <td>Serra</td>
+			 </tr>
+			 <tr>
+			 <td>
+			 <b>Natural de</b>
+			 </td>
+			 <td>Ibatiba-ES,</td>
+			 </tr>
+			 <tr>
+			 <b>Idade</b>
+			 </td>
+			 <td> 14 anos</td>
+			 </tr>
+             <tbody>
+			 </table>
+			 <br>
+			 <br>
+			 <a href="https://www.instagram.com/shayane_dias15/?hl=pt-br"> "Instagram" </a>
+			 <a href="https://www.facebook.com/shayane.teixeira"> "Facebook" </a>
+			 </a>
+             <br>
+			 <br>
+			 <br>
+             <br>
+             <br>
+             <marque style="font-family:heveltica;"slide direction"left">
+	         <style>
+			  :host { display: inline-block; width:-webkit-fill-available; overflow: hidden; text-align: initial; white-space:nowrap; }>host([direction="up"]), :host([direction="down"]) { overflow: initial; overflow-y: hidden; white-space: initial; }          
+             </style>
+             <content>
+				<span>
+			 </content>
+			 </div>
+             <span style="color:ADD8E6">
+             <i>"Não destrua o futuro por problemas do passado"</i>
+             </span>
+             </marque>
+             <br>
+			 <br>
+             <br>
+			 <br>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/UWLr2va3hu0" frameborder="0" allowfullscreen></iframe>
+             </center>
+			 <br>
+			 <br>
+             <center>
+             <h2 style="text-decoration: underline">
+               <b>Informações Pessoais</b>
+              </h2>
+              </center>
+              <br>
+            <h3 style="color:#4169EI; font-family:helvetica">
+              <b>Hobbies:</b> 
+            </h3>
+            <ul style="color:#0000FF; font-family:helvetica">
+            <li>Assistir Séries</li>
+            <li>Jogar Vôleibol</li>
+		    <li>Viajar</li>
+		    <li>Ler</li>
+		    <li>Tocar Violão</li>
+		  </ul>
+		  <h3 style="color:#4169EI; font-family:helvetica">
+		    <b>Oque quero aprender:</b>
+		  </h3>
+          <ul style="color:#0000FF; font-family:helvetica">
+          <li>Tocar Piano/ Teclado/ Violino</li>
+          <li>Programar</li>
+          <li>Desenhar</li>
+        </ul>
+        <br>
+        <br>
+      </article>
+      <footer> Created by Shay Teixeira</footer>
+    </div>
+  </body>
+</html>
